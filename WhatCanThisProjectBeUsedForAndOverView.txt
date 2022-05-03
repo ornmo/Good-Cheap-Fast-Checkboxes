@@ -1,7 +1,10 @@
-This project is made of background images that expand when clicked on. 
+This project is made of checkboxes that are animated when checked. 
+
+The User can only select a mximum of 2 of the options out of the three offered 
+
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- fun sliders within websites
